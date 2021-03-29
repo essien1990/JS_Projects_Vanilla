@@ -1,1 +1,4 @@
-# JS_Projects_Vanilla
+# JS_Projects_Vanilla 
+# HTML
+# Vanilla JS
+# Css
