@@ -4,4 +4,4 @@
 
 5 - Menu App
 
-6 - Reviews
+6 - Reviews App
